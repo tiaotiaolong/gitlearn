@@ -39,3 +39,5 @@ def ExpFirst(ip,port):
 ExpFirst(HOST,PORT)
 
 新的小说中添加的元素
+
+在新的分之下进行修改
